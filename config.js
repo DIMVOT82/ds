@@ -1,6 +1,6 @@
-global.owner = ['6285748894171'] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.owner = ['601123550412'] // Put your number here
+global.mods = ['601123550412'] // Want some help?
+global.prems = ['601123550412','60109102984'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -43,18 +43,18 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `NakataArdnt`
-global.wm = 'Nakataa' //Nama Bot
+global.author = `Khairil春`
+global.wm = 'BebanBot天' //Nama Bot
 global.watermark = wm
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
-global.instagram = 'https://instagram.com/nakataa1.a'
+global.media = 'https://telegra.ph/file/23ce00c425292b67cc4ea.jpg'
+global.instagram = 'https://instagram.com/bangkelah_71'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
-global.wait = '_*tunggu sedang di proses...*_'
+global.wait = '_*Sabar Loading! Orang Sabar Disayang Janda...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 999 // The higher, The harder levelup
 
 global.rpg = {
   emoticon(string) {
