@@ -8,13 +8,13 @@ const q = {
 	},
 	"message": {
 		"contactMessage": {
-			"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;Nakata Ganteng;;;FN:Elyas Ganteng\nORG:Nakata Ganteng;\nTEL;type=CELL;type=VOICE;waid=6285748894171:+62 857-4889-4171\nEND:VCARD"
+			"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;Khairil Ganteng;;;FN:Khairil Ganteng\nORG:Khairil Ganteng;\nTEL;type=CELL;type=VOICE;waid=601123550412:+60 11-2355 0412\nEND:VCARD"
 		}
 	},
 	"participant": "0@s.whatsapp.net"
 }
 
-conn.sendContact(m.chat, '6285748894171', 'Nakataa', m)
+conn.sendContact(m.chat, '601123550412', 'Khairil', m)
 m.reply(m.chat,'*Tuh nomor owner ku tersayang*\n*Chat jika PENTING*', q)
 }
 handler.help = ['owner', 'creator']
